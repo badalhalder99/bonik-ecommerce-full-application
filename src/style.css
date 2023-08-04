@@ -109,6 +109,7 @@ header {
   }
   .formGroup .my-input {
     margin-bottom: 15px;
+    width: 238px !important;
   }
 }
 
