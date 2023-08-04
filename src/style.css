@@ -89,7 +89,7 @@ header {
 }
 @media (max-width: 767.98px) {
   .formGroup {
-    width: 238px;
+    width: 238px !important;
   }
   .logo-container {
     display: block;
