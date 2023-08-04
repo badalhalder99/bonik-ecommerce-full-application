@@ -1,3 +1,2 @@
-# react-bonik-ecommerce
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/stackblitz-starters-quxisz)
+# Live Link:
+#### https://bonik-ecommerce-full-application.vercel.app/
