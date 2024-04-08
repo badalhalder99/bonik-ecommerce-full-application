@@ -5,7 +5,7 @@ import { products } from '../data/data';
 
 const sliderProducts = products.filter(
   (product) =>
-    product.category === 'apple' || product.category === 'smartphones'
+    product.category === 'apple'
 );
 
 const SlideCard = () => {
@@ -43,3 +43,4 @@ const SlideCard = () => {
   );
 };
 export default SlideCard;
+//This is sliderCard component:::
