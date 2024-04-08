@@ -135,7 +135,7 @@ export const products = [
     stock: 3,
     brand: 'Canon',
     category: 'cameras',
-    thumbnail: 'https://i.dummyjson.com/data/products/11/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/SK8qGVC/png-clipart-women-s-green-scoop-neck-cap-sleeved-knot-dress-clothing-clothing-with-childrens-clothin.png',
   },
   {
     id: 12,
@@ -147,7 +147,7 @@ export const products = [
     stock: 7,
     brand: 'Nikon',
     category: 'cameras',
-    thumbnail: 'https://i.dummyjson.com/data/products/12/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/M2KqmvJ/png-clipart-women-s-white-long-sleeved-dress-kaftan-dress-sleeve-robe-clothing-muslim-culture-white.png',
   },
   {
     id: 13,
@@ -184,7 +184,7 @@ export const products = [
     stock: 4,
     brand: 'LG',
     category: 'televisions',
-    thumbnail: 'https://i.dummyjson.com/data/products/15/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/HnBCjmJ/images-1-removebg-preview.png',
   },
   {
     id: 16,
@@ -197,7 +197,7 @@ export const products = [
     stock: 2,
     brand: 'Samsung',
     category: 'televisions',
-    thumbnail: 'https://i.dummyjson.com/data/products/16/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/jRK3yt9/png-clipart-women-s-blue-and-white-floral-strapless-gown-wedding-dress-blue-ball-gown-dress-backgrou.png',
   },
   {
     id: 17,
@@ -376,7 +376,7 @@ export const products = [
     stock: 39,
     brand: 'GoPro',
     category: 'cameras',
-    thumbnail: 'https://i.dummyjson.com/data/products/30/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/C79ZZbM/1699388747-removebg-preview.png',
   },
   {
     id: 31,
@@ -616,7 +616,7 @@ export const products = [
     description:
       'The Apple Watch Series 2, 38 mm is similar to the launch model but showcased upgraded features such as GPS tracking as well as water resistance up to 50m. This model features a lightweight Ion-X glass screen while the steel cased models feature a sapphire protective layer for better protection. The device features a new and improved Apple S2 processor which is not only dual core but also has higher clock speeds than the original device. This device comes in 16 specific configurations with various options of housing material as well as band type.',
     category: 'apple',
-    thumbnail: 'https://techable.com/images/detailed/42/FKJH3.jpg',
+    thumbnail: 'https://i.ibb.co/VmtDL3w/png-transparent-apple-watch-series-2-apple-watch-series-3-apple-watch-series-1-smart-apple-watch-spo.png',
     rating: 4.8,
   },
   {
@@ -661,7 +661,7 @@ export const products = [
       'Apple Watch Series 3 (38mm) A1976 (GPS + Cellular) Stainless Steel Silver.',
     category: 'watch',
     thumbnail:
-      'https://techable.com/images/detailed/24/apple-watch-series-3-38mm-a1976-gps-cellular-stainless-steel-silver-apple-watch-series-3-38mm-a1976-gps-cellular-stainless-steel-silver.jpg',
+      'https://i.ibb.co/7ySWmb7/new1-1.png',
     rating: 4.8,
   },
   {
@@ -673,7 +673,7 @@ export const products = [
       'Apple Watch Series 3 (44mm) A1976 (GPS + Cellular) Stainless Steel Silver.',
     category: 'watch',
     thumbnail:
-      'https://techable.com/images/detailed/24/apple-watch-series-4-44mm-a1976-gps-lte-silver-wear-and-tear-special-5787-apple-watch-series-4-44mm-a1976-gps-lte-silver-wear-and-tear-special.jpeg',
+      'https://i.ibb.co/mtjLB5H/p112-removebg-preview.png',
     rating: 4.9,
   },
   {
@@ -685,7 +685,7 @@ export const products = [
       'Apple Watch Series 3 (44mm) A1976 (GPS + Cellular) Stainless Steel Silver.',
     category: 'watch',
     thumbnail:
-      'https://techable.com/images/detailed/24/apple-watch-series-4-44mm-a1976-gps-lte-silver-wear-and-tear-special-5787-apple-watch-series-4-44mm-a1976-gps-lte-silver-wear-and-tear-special.jpeg',
+      'https://i.ibb.co/pjXzrNK/H87c9297d2b04492088359b0bd6d67166r-jpg-720x720q50.jpg',
     rating: 4.9,
   },
   {
@@ -697,99 +697,7 @@ export const products = [
       'Apple Watch Series 3 (44mm) A1976 (GPS + Cellular) Stainless Steel Silver.',
     category: 'watch',
     thumbnail:
-      'https://techable.com/images/detailed/24/apple-watch-series-4-44mm-a1976-gps-lte-silver-wear-and-tear-special-5881-apple-watch-series-4-44mm-a1976-gps-lte-silver-wear-and-tear-special.jpeg',
-    rating: 3.9,
-  },
-  {
-    id: 59,
-    title: '50% Off For Your First Shopping',
-    price: 379.99,
-    stock: 67,
-    description:
-      'Apple Watch Series 3 (49mm) A1576 (GPS + Cellular) Stainless Steel Silver.',
-    category: 'watch',
-    thumbnail: 'https://techable.com/images/detailed/42/s-l500-2.jpg',
-    rating: 4.9,
-  },
-  {
-    id: 60,
-    title: '50% Off For Your First Shopping',
-    price: 3409.99,
-    stock: 34,
-    description:
-      'Apple Watch Series 3 (44mm) A1976 (GPS + Cellular) Stainless Steel Silver.',
-    category: 'watch',
-    thumbnail: 'https://techable.com/images/detailed/42/FKJH3.jpg',
-    rating: 3.9,
-  },
-  {
-    id: 61,
-    title: '50% Off For Your First Shopping',
-    price: 39.99,
-    stock: 45,
-    description:
-      'Apple Watch Series 3 (38mm) A1976 (GPS + Cellular) Stainless Steel Silver.',
-    category: 'watch',
-    thumbnail:
-      'https://techable.com/images/detailed/24/apple-watch-series-3-38mm-a1976-gps-cellular-stainless-steel-silver-apple-watch-series-3-38mm-a1976-gps-cellular-stainless-steel-silver.jpg',
-    rating: 4.8,
-  },
-  {
-    id: 62,
-    title: '50% Off For Your First Shopping',
-    price: 329.99,
-    stock: 23,
-    description:
-      'Apple Watch Series 3 (44mm) A1976 (GPS + Cellular) Stainless Steel Silver.',
-    category: 'watch',
-    thumbnail:
-      'https://techable.com/images/detailed/24/apple-watch-series-4-44mm-a1976-gps-lte-silver-wear-and-tear-special-5787-apple-watch-series-4-44mm-a1976-gps-lte-silver-wear-and-tear-special.jpeg',
-    rating: 4.9,
-  },
-  {
-    id: 63,
-    title: '50% Off For Your First Shopping',
-    price: 319.99,
-    stock: 78,
-    description:
-      'Apple Watch Series 3 (44mm) A1976 (GPS + Cellular) Stainless Steel Silver.',
-    category: 'watch',
-    thumbnail:
-      'https://techable.com/images/detailed/24/apple-watch-series-4-44mm-a1976-gps-lte-silver-wear-and-tear-special-5787-apple-watch-series-4-44mm-a1976-gps-lte-silver-wear-and-tear-special.jpeg',
-    rating: 4.9,
-  },
-  {
-    id: 64,
-    title: '50% Off For Your First Shopping',
-    price: 399.99,
-    stock: 15,
-    description:
-      'Apple Watch Series 3 (44mm) A1976 (GPS + Cellular) Stainless Steel Silver.',
-    category: 'watch',
-    thumbnail:
-      'https://techable.com/images/detailed/24/apple-watch-series-4-44mm-a1976-gps-lte-silver-wear-and-tear-special-5881-apple-watch-series-4-44mm-a1976-gps-lte-silver-wear-and-tear-special.jpeg',
-    rating: 3.9,
-  },
-  {
-    id: 65,
-    title: '50% Off For Your First Shopping',
-    price: 379.99,
-    stock: 50,
-    description:
-      'Apple Watch Series 3 (49mm) A1576 (GPS + Cellular) Stainless Steel Silver.',
-    category: 'watch',
-    thumbnail: 'https://techable.com/images/detailed/42/s-l500-2.jpg',
-    rating: 4.9,
-  },
-  {
-    id: 66,
-    title: '50% Off For Your First Shopping',
-    price: 3409.99,
-    stock: 90,
-    description:
-      'Apple Watch Series 3 (44mm) A1976 (GPS + Cellular) Stainless Steel Silver.',
-    category: 'watch',
-    thumbnail: 'https://techable.com/images/detailed/42/FKJH3.jpg',
+      'https://i.ibb.co/BZNhwds/oppowatch41mmsilver-removebg-preview-1.png',
     rating: 3.9,
   },
   {
