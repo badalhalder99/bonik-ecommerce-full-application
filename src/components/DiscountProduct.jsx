@@ -16,9 +16,8 @@ SwiperCore.use([EffectCoverflow, Pagination, Autoplay, Navigation]);
 const newProducts = products.filter(
   (product) =>
     product.category == "jewelery" ||
-    product.category == "monitors" ||
-    product.category == "tablets" ||
-    product.category == "gaming" 
+    product.category == "televisions" ||
+    product.category == "cameras"
 );
 
 const DiscountProduct = () => {
