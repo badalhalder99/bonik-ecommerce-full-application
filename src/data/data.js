@@ -9,7 +9,7 @@ export const products = [
     stock: 94,
     brand: 'Apple',
     category: 'smartphones',
-    thumbnail: 'https://i.dummyjson.com/data/products/1/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/M7CG322/36534579777-removebg-preview.png',
   },
   {
     id: 2,
@@ -22,7 +22,7 @@ export const products = [
     stock: 34,
     brand: 'Apple',
     category: 'smartphones',
-    thumbnail: 'https://i.dummyjson.com/data/products/2/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/7RjYZwr/iphone-x-pictures-45229-1-removebg-preview.png',
   },
   {
     id: 3,
@@ -35,7 +35,7 @@ export const products = [
     stock: 36,
     brand: 'Samsung',
     category: 'smartphones',
-    thumbnail: 'https://i.dummyjson.com/data/products/3/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/qyTTCM8/png-transparent-galaxy-samsung-galaxy-note-8-samsung-galaxy-s8-smartphone-samsung-galaxy-s9-3d-model.png',
   },
   {
     id: 4,
@@ -47,7 +47,7 @@ export const products = [
     stock: 123,
     brand: 'OPPO',
     category: 'smartphones',
-    thumbnail: 'https://i.dummyjson.com/data/products/4/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/mzyfKS4/unnamed-1-removebg-preview.png',
   },
   {
     id: 5,
@@ -59,7 +59,7 @@ export const products = [
     stock: 56,
     brand: 'Apple',
     category: 'tablets',
-    thumbnail: 'https://i.dummyjson.com/data/products/5/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/dfDq78H/pngtree-ipad-mini-2-ipad-3-png-image-10610368-1-removebg-preview.png',
   },
   {
     id: 6,
@@ -72,7 +72,7 @@ export const products = [
     stock: 23,
     brand: 'Apple',
     category: 'laptops',
-    thumbnail: 'https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg',
+    thumbnail: 'https://i.ibb.co/5ccBwMT/images-removebg-preview-1.png',
   },
   {
     id: 7,
@@ -85,7 +85,7 @@ export const products = [
     stock: 10,
     brand: 'Sony',
     category: 'gaming',
-    thumbnail: 'https://i.dummyjson.com/data/products/7/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/RPpZ9Jx/672612084370d8dcf922e004ad1a4d64-1-removebg-preview.png',
   },
   {
     id: 8,
@@ -98,7 +98,7 @@ export const products = [
     stock: 8,
     brand: 'Microsoft',
     category: 'gaming',
-    thumbnail: 'https://i.dummyjson.com/data/products/8/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/NWnJPxb/xbox-series-x-handheld-game-console-mr3-LNr2-600-removebg-preview-1.png',
   },
   {
     id: 9,
@@ -110,7 +110,7 @@ export const products = [
     stock: 17,
     brand: 'Samsung',
     category: 'tablets',
-    thumbnail: 'https://i.dummyjson.com/data/products/9/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/gPpWDb1/Samsung-97526817-au-galaxy-tab-s7-fe-wifi-t733-sm-t733nzkexsa-530580705-Download-Source-zoom-1-remov.png',
   },
   {
     id: 10,
@@ -123,7 +123,7 @@ export const products = [
     stock: 5,
     brand: 'Dell',
     category: 'laptops',
-    thumbnail: 'https://i.dummyjson.com/data/products/1/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/64JmvYk/images-1-1-removebg-preview.png',
   },
   {
     id: 11,
@@ -160,7 +160,7 @@ export const products = [
     stock: 12,
     brand: 'Sony',
     category: 'headphones',
-    thumbnail: 'https://i.dummyjson.com/data/products/3/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/pb104z3/sonywh1000xm4-contextsignature-removebg-preview.png',
   },
   {
     id: 14,
@@ -172,7 +172,7 @@ export const products = [
     stock: 16,
     brand: 'Bose',
     category: 'headphones',
-    thumbnail: 'https://i.dummyjson.com/data/products/14/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/dP9Vp8d/png-transparent-bose-quietcomfort-35-noise-cancelling-headphones-bose-corporation-headphones-electro.png',
   },
   {
     id: 15,
@@ -210,7 +210,7 @@ export const products = [
     stock: 20,
     brand: 'Google',
     category: 'smart-home',
-    thumbnail: 'https://i.dummyjson.com/data/products/17/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/0KXFKy3/images-2-1-removebg-preview.png',
   },
   {
     id: 18,
@@ -223,7 +223,7 @@ export const products = [
     stock: 25,
     brand: 'Amazon',
     category: 'smart-home',
-    thumbnail: 'https://i.dummyjson.com/data/products/18/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/JRNbgbK/images-7-removebg-preview.png',
   },
   {
     id: 19,
@@ -236,7 +236,7 @@ export const products = [
     stock: 18,
     brand: 'Fitbit',
     category: 'wearables',
-    thumbnail: 'https://i.dummyjson.com/data/products/19/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/Dg2BS3x/31-CB6-OWXKSL-AC-UF894-1000-QL80-removebg-preview.png',
   },
   {
     id: 20,
@@ -249,7 +249,7 @@ export const products = [
     stock: 15,
     brand: 'Apple',
     category: 'wearables',
-    thumbnail: 'https://i.dummyjson.com/data/products/20/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/xmkVQ05/images-6-removebg-preview.png',
   },
   {
     id: 21,
@@ -262,7 +262,7 @@ export const products = [
     stock: 9,
     brand: 'Microsoft',
     category: 'laptops',
-    thumbnail: 'https://i.dummyjson.com/data/products/23/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/zmBqZ3p/4202347e-f4f7-0d30-87f2-966649fb1bef-1-removebg-preview.png',
   },
   {
     id: 22,
@@ -274,7 +274,7 @@ export const products = [
     stock: 11,
     brand: 'HP',
     category: 'monitors',
-    thumbnail: 'https://i.dummyjson.com/data/products/22/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/bWt6ftc/cbb05484-88e5-4a14-a890-c39df6d5c5aa-removebg-preview.png',
   },
   {
     id: 23,
@@ -287,7 +287,7 @@ export const products = [
     stock: 14,
     brand: 'Logitech',
     category: 'peripherals',
-    thumbnail: 'https://i.dummyjson.com/data/products/23/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/ZTBsVzZ/png-transparent-computer-mouse-apple-wireless-mouse-logitech-mx-master-2s-computer-mouse-electronics.png',
   },
   {
     id: 24,
@@ -300,7 +300,7 @@ export const products = [
     stock: 19,
     brand: 'Razer',
     category: 'peripherals',
-    thumbnail: 'https://i.dummyjson.com/data/products/24/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/JztsfDm/images-5-removebg-preview.png',
   },
   {
     id: 25,
@@ -312,7 +312,7 @@ export const products = [
     stock: 22,
     brand: 'Samsung',
     category: 'audio',
-    thumbnail: 'https://i.dummyjson.com/data/products/25/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/pfLbFkS/png-clipart-samsung-galaxy-note-8-samsung-galaxy-s9-samsung-galaxy-s8-samsung-galaxy-s7-samsung-gala.png',
   },
   {
     id: 26,
@@ -325,7 +325,7 @@ export const products = [
     stock: 27,
     brand: 'Sony',
     category: 'headphones',
-    thumbnail: 'https://i.dummyjson.com/data/products/26/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/QKzk9Cc/3697-25656-removebg-preview.png',
   },
   {
     id: 27,
@@ -338,7 +338,7 @@ export const products = [
     stock: 30,
     brand: 'Apple',
     category: 'audio',
-    thumbnail: 'https://i.dummyjson.com/data/products/17/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/59r6JT1/aaaa-removebg-preview.png',
   },
   {
     id: 28,
@@ -351,7 +351,7 @@ export const products = [
     stock: 33,
     brand: 'Nintendo',
     category: 'gaming',
-    thumbnail: 'https://i.dummyjson.com/data/products/28/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/cTKGVC4/png-clipart-nintendo-switch-splatoon-2-hyrule-warriors-joy-con-blue-neon-wordart-gadget-electronics.png',
   },
   {
     id: 29,
@@ -364,7 +364,7 @@ export const products = [
     stock: 36,
     brand: 'Amazon',
     category: 'e-readers',
-    thumbnail: 'https://i.dummyjson.com/data/products/24/thumbnail.jpg',
+    thumbnail: 'https://i.ibb.co/xHGQG4t/png-clipart-kindle-fire-javascript-concurrency-amazon-com-amazon-kindle-paperwhite-e-readers-leyton.png',
   },
   {
     id: 30,
