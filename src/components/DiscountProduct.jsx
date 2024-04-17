@@ -15,7 +15,7 @@ SwiperCore.use([EffectCoverflow, Pagination, Autoplay, Navigation]);
 
 const newProducts = products.filter(
   (product) =>
-    product.category == "jewelery" ||
+    product.category == "smartphones" ||
     product.category == "televisions" ||
     product.category == "cameras"
 );
