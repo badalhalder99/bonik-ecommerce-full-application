@@ -54,7 +54,7 @@ const Products = () => {
                     <p className="stock">In Stock: {p.stock}</p>
                     <img
                       src={p.thumbnail}
-                      alt="women clothes"
+                      alt=""
                       className="new-product-img discount-img featureImage"
                     />
                     <h6 className="feature-title">{p.title.slice(0, 15)}</h6>
